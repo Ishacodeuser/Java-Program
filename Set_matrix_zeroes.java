@@ -1,10 +1,5 @@
 package JavaProgram;
 class SetMatrixZeroes {
-    public static void main(String[] args){
-
-    }
-}
-class Solution {
     public void setZeroes(int[][] matrix) {
         int n = matrix.length;
         int m = matrix[0].length;
@@ -56,3 +51,4 @@ class Solution {
         }
     }
 }
+
